@@ -139,6 +139,6 @@ Every detection is automatically saved to logs/detection_log.csv:
 
 **Chintha Dhanunjaya**
 
-- LinkedIn: https://www.linkedin.com/in/chinthadhanu/
+- LinkedIn: https://www.linkedin.com/in/chintha-dhanunjaya/
 - GitHub: https://github.com/chintha-dhanunjaya
-- Email: chinthadhanu123@gmail.com
+- Email: chinthadhanu2003@gmail.com
